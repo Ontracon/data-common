@@ -2,6 +2,9 @@
     "westeurope": {
       "code": "weur"
     },
+        "northeurope": {
+      "code": "neur"
+    },
     "eu-central-1": {
       "code": "euc1"
     }
